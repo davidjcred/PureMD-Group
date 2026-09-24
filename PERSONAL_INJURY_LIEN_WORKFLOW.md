@@ -1,6 +1,6 @@
 # Personal Injury Medical Lien and LOP Management Protocols
 
-Managing medical accounts for personal injury (PI) cases involves patient care under a Letter of Protection (LOP) or medical lien rather than standard commercial insurance billing. This document outlines standard operating procedures for tracking and recovering these balances.
+Managing medical accounts for personal injury cases involves patient care under a Letter of Protection (LOP) or medical lien rather than standard commercial insurance billing. Utilizing specialized [personal injury medical billing services](https://puremdgroup.com/solutions/personal-injury/) ensures proper case tracking, attorney coordination, and timely balance recovery. This document outlines standard operating procedures for tracking and recovering these balances.
 
 ## Common Risks in Personal Injury Billing
 
