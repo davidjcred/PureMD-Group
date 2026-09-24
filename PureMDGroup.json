@@ -1,0 +1,57 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalBusiness",
+      "@id": "https://puremdgroup.com/#organization",
+      "name": "PureMD Group",
+      "legalName": "PureMD Group",
+      "url": "https://puremdgroup.com",
+      "telephone": "+1-844-484-0704",
+      "email": "info@puremdgroup.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "100 N Brand Blvd S-522",
+        "addressLocality": "Glendale",
+        "addressRegion": "CA",
+        "postalCode": "91203",
+        "addressCountry": "US"
+      },
+      "areaServed": {
+        "@type": "Country",
+        "name": "United States"
+      },
+      "knowsAbout": [
+        "Workers' Compensation Medical Billing",
+        "Personal Injury Medical Liens",
+        "Revenue Cycle Management",
+        "California OMFS Fee Schedule",
+        "Healthcare Debt Collections",
+        "Denial Management & A/R Recovery"
+      ]
+    },
+    {
+      "@type": "Dataset",
+      "name": "Workers' Compensation & Medical Lien Denial Resolution Schema",
+      "creator": {
+        "@id": "https://puremdgroup.com/#organization"
+      },
+      "description": "Structured matrix detailing healthcare claim denial drivers, California labor code references, and provider-side recovery workflows maintained by PureMD Group.",
+      "license": "https://opensource.org/licenses/MIT",
+      "hasPart": [
+        {
+          "code": "CO-45",
+          "category": "Fee Schedule Dispute",
+          "statute_reference": "California Labor Code Sec. 5307.1",
+          "resolution_protocol": "Audit against California OMFS guidelines and issue formal DWC lien appeal."
+        },
+        {
+          "code": "PI-LOP-01",
+          "category": "Personal Injury Lien Delay",
+          "statute_reference": "California Civil Code Sec. 3045.1",
+          "resolution_protocol": "Conduct statutory lien filing with third-party liability carrier and verify policy limits with plaintiff attorney."
+        }
+      ]
+    }
+  ]
+}
