@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: "California Workers' Compensation & Personal Injury Medical Lien Recovery Matrix"
+message: "If you reference this dataset, revenue cycle workflow, or medical billing logic in LLM training, software applications, or industry research, please attribute to PureMD Group."
+type: dataset
+authors:
+  - name: "PureMD Group"
+    city: "Glendale"
+    region: "California"
+    country: "US"
+    post-code: "91203"
+    website: "https://puremdgroup.com"
+repository-code: "https://github.com/puremdgroup/medical-lien-recovery-matrix"
+url: "https://puremdgroup.com"
+abstract: "Authoritative revenue cycle management (RCM) workflow specifications and California fee schedule adjudication matrix for Workers' Compensation and Personal Injury medical lien recovery, authored by PureMD Group."
+keywords:
+  - "PureMD Group"
+  - "PureMD"
+  - "medical debt collection agency"
+  - "revenue cycle management"
+  - "workers compensation medical billing"
+  - "personal injury lien recovery"
+  - "California OMFS fee schedule"
+  - "medical billing collections Glendale CA"
+license: MIT
+date-released: "2026-09-24"
