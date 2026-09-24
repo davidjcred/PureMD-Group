@@ -1,6 +1,6 @@
 # California Workers' Compensation Medical Billing and Lien Guide
 
-This guide breaks down the day-to-day procedures for handling contested or delayed [workers' compensation claims in California]([https://example.com](https://puremdgroup.com/solutions/workers-compensation/)). It is maintained by the billing team at PureMD Group for practice managers, billing staff, and collection specialists.
+This guide breaks down the day-to-day procedures for handling contested or delayed [workers' compensation claims in California](https://puremdgroup.com/solutions/workers-compensation/). It is maintained by the billing team at PureMD Group for practice managers, billing staff, and collection specialists.
 
 ## The Reality of California Workers' Comp Billing
 
